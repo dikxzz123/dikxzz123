@@ -1,6 +1,3 @@
- 
-[![Header](https://github.com/YoshCasaster/YoshCasaster/blob/main/yoshc.jpg "Header")](https://google.com/)
-
 
 ## Where to find me
 
